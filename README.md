@@ -58,6 +58,6 @@ Geographic clustering of sellers impacts delivery speed
 Magist provides a strong entry point into Brazil with cost and logistics advantages. However, challenges remain with tech product delays, long lead times, and high import taxes.
 We recommend using Magist as a short-term partner while ENIAC prepares to establish its own supply chain for long-term scalability and brand protection.
 
-👥 Team & Acknowledgments
-
+**👥 Team & Acknowledgments
+**
 Special thanks to our team members and WBS coding school for the opportunity to work on this data analysis project, and for supporting our exploration into Brazil’s e-commerce market.
